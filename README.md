@@ -1,19 +1,19 @@
-## Welcome to [Applyboard's](http://applyboard.com/) react front end challenge ;) <a href="https://twitter.com/applyboard"><img src="https://img.shields.io/twitter/follow/applyboard.svg?style=social&label=Follow" height="20"></a>
+# Welcome to [Applyboard's](http://applyboard.com/) react front end challenge 😬 <a href="https://twitter.com/applyboard"><img src="https://img.shields.io/twitter/follow/applyboard.svg?style=social&label=Follow" height="20"></a>
 
 Thanks for applying to work with us here at Applyboard! Here's a little challenge to play around with so we can see what you come up with! 
 
 It's a solid starting point for you to get an idea of what we work with every day at Applyboard in order to help international students realize their futures.
 
 
-### Getting Started
+## Getting Started
 
-#### Requirements
+### Requirements
 
   * Mac OS X, Windows, or Linux
   * [Yarn](https://yarnpkg.com/) package + [Node.js](https://nodejs.org/) v6.5 or newer
   * Text editor or IDE pre-configured with React/JSX/Flow/ESlint ([learn more](./how-to-configure-text-editors.md))
 
-#### Directory Layout
+### Directory Layout
 
 Before you start, take a moment to see how the project structure looks like:
 
@@ -49,9 +49,9 @@ Before you start, take a moment to see how the project structure looks like:
 └── yarn.lock                   # Fixed versions of all the dependencies
 ```
 
-#### Quick Start
+### Quick Start
 
-##### 1. Get the latest version
+#### 1. Get the latest version
 
 You can start by cloning the latest version of this project on your
 local machine by running:
@@ -63,12 +63,12 @@ $ cd reactSample
 ```
 
 
-##### 2. Run `yarn install`
+#### 2. Run `yarn install`
 
 This will install both run-time project dependencies and developer tools listed
 in [package.json](../package.json) file.
 
-##### 3. Run `yarn start`
+#### 3. Run `yarn start`
 
 This command will build the app from the source files (`/src`) into the output
 `/build` folder. As soon as the initial build completes, it will start the
