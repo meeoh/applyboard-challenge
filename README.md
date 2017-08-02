@@ -130,7 +130,7 @@ Add cool CSS animations (react-animations or bodymovin). Check out https://codep
 
 **Bonus:** Just as a bonus, access the user's name that you've stored in Task 2 from the welcome component's parent. Count the number of characters in their name (either as an action prior to storing or after fetching) and pass it as a prop to your Welcome component - Then display the count as a subtitle ("Your name has x characters!").
  
-#SUBMISSIONS 🏁
+# SUBMISSIONS 🏁
 Submitting should be simple. 
 
 Just create a new repo under your account and link me to it (send me the link - toby@applyboard.com).
