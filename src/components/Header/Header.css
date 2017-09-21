@@ -14,13 +14,27 @@
 }
 
 .root {
-  background: #373277;
+  background: transparent;
   color: #fff;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+.hidden {
+  background: transparent;
+  transition: all 0.5s;
+}
+
+.visible {
+  background: #f9f9f9;
+  opacity: 1;
+  transition: all 0.5s;
 }
 
 .container {
   margin: 0 auto;
-  padding: 20px 0;
+  padding: 5px 0;
   max-width: var(--max-content-width);
 }
 
@@ -29,8 +43,3 @@
   text-decoration: none;
   font-size: 1.75em; /* ~28px */
 }
-
-.brandTxt {
-  margin-left: 10px;
-}
-
